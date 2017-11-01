@@ -1,0 +1,69 @@
+* {
+  color: #151E40;
+  margin: 15px;
+  text-align: center;
+
+}
+
+h1 {
+  font-family: Palatino, Gill Sans, sans-serif;
+  color: #151E40;
+  font-size: 40px;
+  line-height: 100px;
+  border: 10px double #DADBDA;
+  background-color: rgba(240, 247, 243, 0.5);
+
+}
+
+h3 {
+  font-family: Palatino, Gill Sans, sans-serif;
+  color: white;
+  font-size: 150%;
+  font-weight: normal;
+  margin: 20px;
+  text-shadow: 2px 2px rgba(21, 30, 64, 0.8);
+}
+
+h4 {
+  font-weight: normal;
+  color: white;
+  font-size: 120%;
+  margin: 20px;
+  text-shadow: 2px 2px rgba(21, 30, 64, 0.8);
+}
+
+body {
+  font-family: Palatino;
+  background-image: url("https://static1.squarespace.com/static/56aac4131f4039320c0006ec/t/59836a1b59cc68fa41ef9175/1501784610266/wooden-cutting-793x526.png?format=1500w");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+p {
+  line-height: 1.4em;
+  font-weight: bold;
+}
+
+li {
+  border: 10px double #DADBDA;
+  background-color: rgba(240, 247, 243, 0.5);
+}
+
+[href] {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+[src] {
+  border: 10px double #DADBDA;
+}
+
+form {
+  border: 10px double #DADBDA;
+  background-color: rgba(240, 247, 243, 0.5);
+}
+
+a:hover {
+  color: rgba(21, 30, 64, 0.5);
+}
